@@ -1,4 +1,4 @@
-#sudo su -
+#!/bin/bash
 
 echo 330 > /sys/class/gpio/export
 while [1]
