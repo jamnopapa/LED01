@@ -1,2 +1,2 @@
 #!/usr/bin/env python3
-printf("test output")
+print("test output")
